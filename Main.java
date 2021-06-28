@@ -4,4 +4,5 @@ public class Main {
     Monster monster = new Monster();
     System.out.println(monster.toString());
   }
+  // 間違った編集
 }
