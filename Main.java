@@ -3,5 +3,8 @@ public class Main {
     System.out.println("SEMonster!");
     Monster monster = new Monster();
     System.out.println(monster.toString());
+    Player p1 = new Player();
+    p1.drawMonsters();
+    p1.showDeck();
   }
 }
